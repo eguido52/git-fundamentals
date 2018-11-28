@@ -1,6 +1,7 @@
 # Question
 When you make a commit, does git track the branch you're on?
-- [ ] Yes
+- [x] Yes
 - [ ] No
 
 # Explanation
+Git keeps a log of all your commits
